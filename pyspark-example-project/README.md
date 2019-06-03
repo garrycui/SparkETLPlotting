@@ -1,6 +1,7 @@
 # PySpark Example Project
 
 The PySpark ETL are under jobs/etl_jobs.py
+
 The Plotting tasks are under jobs/plotting.py 
 
 
