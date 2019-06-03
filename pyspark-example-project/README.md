@@ -4,6 +4,8 @@ The PySpark ETL are under jobs/etl_jobs.py
 
 The Plotting tasks are under jobs/plotting.py 
 
+The output.csv will be found under /tests/test_data/energy/data/output.csv 
+
 
 ## ETL Project Structure
 
