@@ -20,10 +20,12 @@ root/
  |   |-- spark.py
  |-- jobs/
  |   |-- etl_job.py
+ |   |-- plotting.py
  |-- tests/
- |   |-- test_data/
- |   |-- | -- employees/
- |   |-- | -- employees_report/
+ |   |-- test_data/energy
+ |   |-- | -- LFG_ST_Hourly_20180213_input.csv
+ |   |-- | -- NOP_LOAD_FORECAST_20180213_11_input.csv
+ |   |-- | -- NOP_LOAD_FORECAST_20180214_04_input.csv
  |   |-- test_etl_job.py
  |   build_dependencies.sh
  |   packages.zip
